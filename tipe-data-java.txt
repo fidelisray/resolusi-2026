@@ -10,3 +10,7 @@
 2. Tipe data non-primitive
     * String
     * Array
+    * Class
+    * Interface
+    * enum
+    * wrapper class
