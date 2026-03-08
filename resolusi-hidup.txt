@@ -1,1 +1,4 @@
 1. Memperdalam pemrograman java
+    * variabel
+    * perulangan
+    * pengkondisian
