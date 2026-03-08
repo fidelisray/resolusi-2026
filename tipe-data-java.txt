@@ -1,0 +1,12 @@
+1. Tipe data primitive
+    * byte
+    * short
+    * long
+    * int
+    * float
+    * double
+    * boolean
+    * char
+2. Tipe data non-primitive
+    * String
+    * Array
